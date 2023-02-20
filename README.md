@@ -14,8 +14,9 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
+<br>
 <div>
-  <img src="https://www.codewars.com/users/RealImpact/badges/large">
+  <img src="https://www.codewars.com/users/RealImpact/badges/small">
 </div>
 <!--
 **boykis82/boykis82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
